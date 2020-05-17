@@ -6,7 +6,7 @@ This project consists of 3 parts.
 
 *2. A derivation of a consumer-problem with intertemporal constraints. 
 
-*3. A Gradient descent function
+*3. An implementation of a gradient descent function
 
 
 The **results** of the project can be seen from running [examproject.ipynb](examproject.ipynb).
